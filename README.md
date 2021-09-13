@@ -19,7 +19,7 @@
 2. `cd photopea-desktop`
 3. `npm install`
 4. `npm run package-linux`
-5. `npm run build-debian`
+5. `npm start`
 
 ## Useful dev links
 - https://www.christianengvall.se/electron-packager-tutorial/
